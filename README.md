@@ -7,7 +7,7 @@ From interactive frontends to scalable backend APIs and real-time systems, I lov
 
 🚀 What I’m Working On
 
-Building full-stack applications using React, TypeScript, Node.js
+Building full-stack applications using React, Nextjs, TypeScript, Node.js
 
 Exploring real-time communication with WebSockets
 
@@ -19,19 +19,15 @@ Strengthening problem-solving and system design skills
 
 Frontend
 
-React, TypeScript, Vite
-
-Tailwind CSS
-
+React, Nextjs, TypeScript, Vite
+Tailwind CSS, Recoil
 HTML, CSS, JavaScript
 
 Backend
 
 Node.js, Express.js
-
 WebSockets
-
-REST APIs
+REST APIs, JWT Authentication
 
 Database & Auth
 
@@ -42,9 +38,7 @@ JWT Authentication
 Tools
 
 Git & GitHub
-
 VS Code
-
 Postman
 
 📊 GitHub Stats
@@ -52,7 +46,7 @@ Postman
 
 🌱 Currently Learning
 
-Advanced React patterns
+Advanced React, Nextjs patterns Devops
 
 Backend scalability concepts
 
@@ -60,9 +54,9 @@ Clean architecture & best practices
 
 🤝 Let’s Connect
 
-📧 Email: your-email@example.com
+📧 Email: your-sandeepsandeepkannan16@gmail.com
 
-💼 LinkedIn: your-linkedin-url
+💼 LinkedIn: https://www.linkedin.com/in/sandysandeep123/
 
 ⭐ Thanks for visiting!
 Feel free to explore my repositories and drop a star if something helps you 😊
