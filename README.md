@@ -26,7 +26,7 @@ HTML, CSS, JavaScript
 Backend
 
 Node.js, Express.js
-WebSockets
+WebSockets ,
 REST APIs, JWT Authentication
 
 Database & Auth
