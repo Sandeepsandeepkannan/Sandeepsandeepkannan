@@ -19,7 +19,7 @@ Strengthening problem-solving and system design skills
 
 Frontend
 
-React, Nextjs, TypeScript, Vite
+React, Nextjs, TypeScript, 
 Tailwind CSS, Recoil
 HTML, CSS, JavaScript
 
