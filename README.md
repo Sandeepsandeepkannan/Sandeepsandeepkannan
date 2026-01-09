@@ -31,8 +31,8 @@ REST APIs, JWT Authentication
 
 Database & Auth
 
-MongoDB
-
+PostgreSQL, Prisma, 
+MongoDB,
 JWT Authentication
 
 Tools
