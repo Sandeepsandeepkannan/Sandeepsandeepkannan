@@ -46,7 +46,7 @@ Postman
 
 🌱 Currently Learning
 
-Advanced React, Nextjs patterns Devops
+Advanced React, Nextjs patterns, Devops
 
 Backend scalability concepts
 
