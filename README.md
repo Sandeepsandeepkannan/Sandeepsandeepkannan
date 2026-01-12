@@ -1,19 +1,10 @@
 👋 Hey there, I’m Sandeep!
-
-💻 Full-Stack Developer | 🛠️ Problem Solver | 📘 Continuous Learner
-
-I’m a passionate developer who enjoys building real-world web applications and learning how systems work end-to-end.
-From interactive frontends to scalable backend APIs and real-time systems, I love turning ideas into working products.
-
-🚀 What I’m Working On
-
-Building full-stack applications using React, Nextjs, TypeScript, Node.js
-
-Exploring real-time communication with WebSockets
-
-Improving UI/UX with Tailwind CSS & modern design patterns
-
-Strengthening problem-solving and system design skills
+   About  me
+💻 Full-Stack Web Developer
+🚀 Working with Next.js, React, Node.js, MongoDB & Prisma
+🧠 Interested in open-source, startups, and product development
+📊 Focused on creating impactful and user-centric applications
+💬 Let’s talk about MERN, Next.js, and system design basics
 
 🧰 Tech Stack
 
