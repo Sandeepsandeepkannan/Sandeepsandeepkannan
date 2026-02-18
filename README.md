@@ -11,7 +11,7 @@
 📈 Passionate about solving problems that create mutual value<br>
 💬 Building real-world products & growing a tech-driven business
 </p>
-<br><br>
+<br>
 
 <h2 align="left">Tools and Technologies used</h2>
 <br>
@@ -35,3 +35,14 @@
 <img src="https://skillicons.dev/icons?i=postman" height="50" />
 
 </p>
+
+<h2 align="left">My Absolute Favorites:</h2>
+
+<p>
+💻 <b> Exploring new tech.</b>
+📰  Reading books.<br>
+👔 Dancing and Singing. <br>
+💬  Attending Meetups & Tech Events
+</p>
+
+
