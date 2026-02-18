@@ -49,8 +49,8 @@
 
 <p>
 📧 <b>Email:</b> <a href="mailto:sandeepsandeepkannan16@gmail.com">sandeepsandeepkannan16@gmail.com</a> <br>
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sandysandeep123/">linkedin.com/in/yourprofile</a> <br>
-🌐 <b>Portfolio:</b> <a href="https://sandeepk.vercel.app/">Myportfolio.com</a>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sandysandeep123/">https://www.linkedin.com/in/sandysandeep123/</a> <br>
+🌐 <b>Portfolio:</b> <a href="https://sandeepk.vercel.app/">https://sandeepk.vercel.app/</a>
 </p>
 
 
