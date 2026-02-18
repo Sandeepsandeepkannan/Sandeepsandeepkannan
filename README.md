@@ -45,4 +45,12 @@
 💬  Attending Meetups & Tech Events
 </p>
 
+<h2 align="left">🌍 Connect with me:</h2>
+
+<p>
+📧 <b>Email:</b> <a href="mailto:sandeepsandeepkannan16@gmail.com">sandeepsandeepkannan16@gmail.com</a> <br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sandysandeep123/">linkedin.com/in/yourprofile</a> <br>
+🌐 <b>Portfolio:</b> <a href="https://sandeepk.vercel.app/">Myportfolio.com</a>
+</p>
+
 
