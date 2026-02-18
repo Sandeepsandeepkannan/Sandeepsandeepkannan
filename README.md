@@ -1,10 +1,4 @@
-👋 Hey there, I’m Sandeep!
-   About  me
-💻 Full-Stack Web Developer
-🚀 Working with Next.js, React, Node.js, MongoDB & Prisma
-🧠 Interested in open-source, startups, and product development
-📊 Focused on creating impactful and user-centric applications
-💬 Let’s talk about MERN, Next.js, and system design basics
+Hello, I'm Sandeep!
 
 🧰 Tech Stack
 
