@@ -11,7 +11,7 @@
 📈 Passionate about solving problems that create mutual value<br>
 💬 Building real-world products & growing a tech-driven business
 </p>
-<br><br><br>
+<br><br>
 
 <h2 align="left">Tools and Technologies used</h2>
 <br>
