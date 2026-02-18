@@ -39,7 +39,7 @@
 <h2 align="left">My Absolute Favorites:</h2>
 
 <p>
-💻 <b> Exploring new tech.</b>
+💻 <b> Exploring new tech.</b> <br>
 📰  Reading books.<br>
 👔 Dancing and Singing. <br>
 💬  Attending Meetups & Tech Events
