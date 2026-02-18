@@ -9,7 +9,7 @@
 🧱 Crafting with Next.js, MERN, Prisma and PostgreSQL<br>
 👔 Interested in AI-powered business solutions & SaaS & Automation <br>
 📈 Passionate about solving problems that create mutual value<br>
-💬 Ask me about anything <a href="#">here</a>
+💬 Building real-world products & growing a tech-driven business
 </p>
 <br><br><br>
 
