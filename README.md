@@ -5,7 +5,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p>
-💼 <b>FullStack Engineer at Rainbow Media</b><br><br>
+💼 <b>FullStack Engineer at Rainbow Media</b>
 🧱 Crafting with Next.js, MERN, Prisma and PostgreSQL<br><br>
 👔 Interested in AI-powered business solutions & SaaS & Automation <br><br>
 📈 Passionate about solving problems that create mutual value<br><br>
