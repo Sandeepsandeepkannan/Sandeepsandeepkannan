@@ -11,3 +11,12 @@
 📈 Passionate about solving problems that create mutual value<br><br>
 💬 Ask me about anything <a href="#">here</a>
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+</p>
