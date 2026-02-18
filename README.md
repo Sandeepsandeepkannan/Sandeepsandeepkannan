@@ -1,6 +1,6 @@
-<p align="center" style="font-size:30px; font-weight:bold;">
+<h1 align="center" style="font-size:30px; font-weight:bold;">
  👋 Hello, I'm Sandeep!
-</p>
+</h1>
 
 <h2 align="left">👨‍💻 About Me</h2>
 
