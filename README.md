@@ -40,7 +40,7 @@
 
 <p>
 💻 <b> Exploring new tech.</b> <br>
-📰  Reading books.<br>
+📰  Exploring AI, Cloud & Emerging Technologies.<br>
 👔 Dancing and Singing. <br>
 💬  Attending Meetups & Tech Events
 </p>
