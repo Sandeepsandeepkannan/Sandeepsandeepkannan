@@ -39,9 +39,9 @@
 <h2 align="left">My Absolute Favorites:</h2>
 
 <p>
-💻 <b> Exploring new tech.</b> <br>
-📰  Exploring AI, Cloud & Emerging Technologies.<br>
-👔 Dancing and Singing. <br>
+💻 <b> Developing Real-World Software Projects.</b> <br>
+📰  Exploring Cloud & Emerging Technologies.<br>
+👔 Exploring AI and Automation Tools. <br>
 💬  Attending Meetups & Tech Events
 </p>
 
